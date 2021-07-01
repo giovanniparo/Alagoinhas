@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 25c043a298815b741bfd403b287bbb50
+  - enabled: 1
+    path: Assets/Scenes/Intro_News.unity
+    guid: 2b219aa461cbd0a4982f77bff83cc16e
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: b7b7ee0f4c54fd84d9f3e7f27181a721
+  - enabled: 1
+    path: Assets/Scenes/Mapa_01.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MapaTransHorizontal_01.unity
+    guid: f0430edac41134d4a9c9bf397c6c3cd8
+  - enabled: 1
+    path: Assets/Scenes/Mapa_Carro.unity
+    guid: bf2e5bbcb6b1f9d46ac9ada775cf60a2
+  - enabled: 1
+    path: Assets/Scenes/MapaTransVertical_01.unity
+    guid: dba64e2c07ccc18468a1c37bdc2c8f43
+  - enabled: 1
+    path: Assets/Scenes/Mapa_Cabana.unity
+    guid: f4ff0e0007561c443ae0f4c122b6a7ce
+  - enabled: 1
+    path: Assets/Scenes/Mapa_InsideWoodCabin.unity
+    guid: c9e0cdd32cc426a4cbe410a14f1d8a9d
+  - enabled: 1
+    path: Assets/Scenes/MapaTransHorizontal_02.unity
+    guid: 725c8e8badca21f43939c1f27fa8b997
+  - enabled: 1
+    path: Assets/Scenes/Mapa_Ponte.unity
+    guid: 7eda893a9a0ad8f4eb723096fb6ce17e
+  - enabled: 1
+    path: Assets/Scenes/Mapa_Labirinto.unity
+    guid: 6e94d4bb415429b42be65e6bf4e8d431
+  - enabled: 1
+    path: Assets/Scenes/MapaTransVertical_02.unity
+    guid: 570af380ff30b404f91373ddb03bfb35
+  - enabled: 1
+    path: Assets/Scenes/Mapa_Cabana_Gasolina.unity
+    guid: b78133fda0a865944a73539d107dfe84
+  - enabled: 1
+    path: Assets/Scenes/Mapa_InsideWoodCabin_Gasolina.unity
+    guid: e2a590bbe5d6f804ea1a614e6bca4e7a
+  m_configObjects: {}

@@ -1,0 +1,6578 @@
+fileFormatVersion: 2
+guid: 034f226669d793f41a3d7bf1593f1910
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4660326871412307232
+    second: wateranimate2_0
+  - first:
+      213: -5028735085927674757
+    second: wateranimate2_1
+  - first:
+      213: 4627263737319935990
+    second: wateranimate2_2
+  - first:
+      213: -4433134094065279978
+    second: wateranimate2_3
+  - first:
+      213: 3957897305364559283
+    second: wateranimate2_4
+  - first:
+      213: 4945445440344672560
+    second: wateranimate2_5
+  - first:
+      213: -8486578234288435961
+    second: wateranimate2_6
+  - first:
+      213: -8169212467716264608
+    second: wateranimate2_7
+  - first:
+      213: 2729897700197760712
+    second: wateranimate2_8
+  - first:
+      213: 4811979939060736480
+    second: wateranimate2_9
+  - first:
+      213: -8874608426669827669
+    second: wateranimate2_10
+  - first:
+      213: -8845748944685026624
+    second: wateranimate2_11
+  - first:
+      213: 5283492042984181972
+    second: wateranimate2_12
+  - first:
+      213: 2514113059489646215
+    second: wateranimate2_13
+  - first:
+      213: 9000964505904880571
+    second: wateranimate2_14
+  - first:
+      213: 3668569868804341730
+    second: wateranimate2_15
+  - first:
+      213: -5996688958258520226
+    second: wateranimate2_16
+  - first:
+      213: -8348273880650663820
+    second: wateranimate2_17
+  - first:
+      213: 1563545944588346222
+    second: wateranimate2_18
+  - first:
+      213: 2173027826943597178
+    second: wateranimate2_19
+  - first:
+      213: 7401822933940669848
+    second: wateranimate2_20
+  - first:
+      213: 7501218615165919225
+    second: wateranimate2_21
+  - first:
+      213: -1051522782847444663
+    second: wateranimate2_22
+  - first:
+      213: -6603047146913401124
+    second: wateranimate2_23
+  - first:
+      213: 2815307693761100806
+    second: wateranimate2_24
+  - first:
+      213: 4713107106249933003
+    second: wateranimate2_25
+  - first:
+      213: -1452410340976857339
+    second: wateranimate2_26
+  - first:
+      213: 4138910450394126786
+    second: wateranimate2_27
+  - first:
+      213: -4222447560062044886
+    second: wateranimate2_28
+  - first:
+      213: -3921526997308617951
+    second: wateranimate2_29
+  - first:
+      213: -7315064057127202495
+    second: wateranimate2_30
+  - first:
+      213: 5326036746889430404
+    second: wateranimate2_31
+  - first:
+      213: -1369719987863185557
+    second: wateranimate2_32
+  - first:
+      213: -3977487093653328367
+    second: wateranimate2_33
+  - first:
+      213: 9152196674233043100
+    second: wateranimate2_34
+  - first:
+      213: 8816415678226897873
+    second: wateranimate2_35
+  - first:
+      213: 1470517323007524533
+    second: wateranimate2_36
+  - first:
+      213: -8275073079550710289
+    second: wateranimate2_37
+  - first:
+      213: 8561631764888073255
+    second: wateranimate2_38
+  - first:
+      213: 866798115175971609
+    second: wateranimate2_39
+  - first:
+      213: -8794690964623450424
+    second: wateranimate2_40
+  - first:
+      213: 6922630465120936739
+    second: wateranimate2_41
+  - first:
+      213: -140780192179490709
+    second: wateranimate2_42
+  - first:
+      213: -3833591643062197022
+    second: wateranimate2_43
+  - first:
+      213: 497345501911150890
+    second: wateranimate2_44
+  - first:
+      213: 6958238816103163191
+    second: wateranimate2_45
+  - first:
+      213: -7936645673721488684
+    second: wateranimate2_46
+  - first:
+      213: 543571563241445100
+    second: wateranimate2_47
+  - first:
+      213: -4189228648052923942
+    second: wateranimate2_48
+  - first:
+      213: 4616769155624521856
+    second: wateranimate2_49
+  - first:
+      213: 1316920920326268158
+    second: wateranimate2_50
+  - first:
+      213: -7127579244616758458
+    second: wateranimate2_51
+  - first:
+      213: 5525448323981063876
+    second: wateranimate2_52
+  - first:
+      213: 1498117295392268352
+    second: wateranimate2_53
+  - first:
+      213: 3800036670899317123
+    second: wateranimate2_54
+  - first:
+      213: 2047910813051554559
+    second: wateranimate2_55
+  - first:
+      213: 6306152241282974297
+    second: wateranimate2_56
+  - first:
+      213: -3767598387686884258
+    second: wateranimate2_57
+  - first:
+      213: -700318358275216944
+    second: wateranimate2_58
+  - first:
+      213: 7579509575258079198
+    second: wateranimate2_59
+  - first:
+      213: -5439796985846673666
+    second: wateranimate2_60
+  - first:
+      213: 4242796874216978210
+    second: wateranimate2_61
+  - first:
+      213: 7224099328903023108
+    second: wateranimate2_62
+  - first:
+      213: 7445933853135536024
+    second: wateranimate2_63
+  - first:
+      213: -4701861431172363377
+    second: wateranimate2_64
+  - first:
+      213: -6637091373760460762
+    second: wateranimate2_65
+  - first:
+      213: -7964743935679899983
+    second: wateranimate2_66
+  - first:
+      213: -1483233171201756250
+    second: wateranimate2_67
+  - first:
+      213: -5337972563473850261
+    second: wateranimate2_68
+  - first:
+      213: -859222011137819169
+    second: wateranimate2_69
+  - first:
+      213: -3843807825113646471
+    second: wateranimate2_70
+  - first:
+      213: 7495811476800214008
+    second: wateranimate2_71
+  - first:
+      213: -8657587998966831542
+    second: wateranimate2_72
+  - first:
+      213: 8772495499685365479
+    second: wateranimate2_73
+  - first:
+      213: 1464960368145102240
+    second: wateranimate2_74
+  - first:
+      213: 5997128706222257312
+    second: wateranimate2_75
+  - first:
+      213: -3084475630633298865
+    second: wateranimate2_76
+  - first:
+      213: 3501588485494410477
+    second: wateranimate2_77
+  - first:
+      213: -3655954413323590487
+    second: wateranimate2_78
+  - first:
+      213: 6819941811109976706
+    second: wateranimate2_79
+  - first:
+      213: -5326266520709931887
+    second: wateranimate2_80
+  - first:
+      213: 6221380516385366646
+    second: wateranimate2_81
+  - first:
+      213: 4560976535630647459
+    second: wateranimate2_82
+  - first:
+      213: -7470031407812372588
+    second: wateranimate2_83
+  - first:
+      213: -3988241574306221027
+    second: wateranimate2_84
+  - first:
+      213: -4750654071672884221
+    second: wateranimate2_85
+  - first:
+      213: 1798077704191449051
+    second: wateranimate2_86
+  - first:
+      213: 7819292926704102494
+    second: wateranimate2_87
+  - first:
+      213: 2279574104086477184
+    second: wateranimate2_88
+  - first:
+      213: 6182245499038076214
+    second: wateranimate2_89
+  - first:
+      213: -8925064480041513004
+    second: wateranimate2_90
+  - first:
+      213: 3733647342578621009
+    second: wateranimate2_91
+  - first:
+      213: 7881907052713457627
+    second: wateranimate2_92
+  - first:
+      213: -1999761875797764009
+    second: wateranimate2_93
+  - first:
+      213: -3814296808135079022
+    second: wateranimate2_94
+  - first:
+      213: -4218993389826001477
+    second: wateranimate2_95
+  - first:
+      213: 1978508839418093206
+    second: wateranimate2_96
+  - first:
+      213: 2143329955083258562
+    second: wateranimate2_97
+  - first:
+      213: -1200077813214720078
+    second: wateranimate2_98
+  - first:
+      213: 8790428283447293450
+    second: wateranimate2_99
+  - first:
+      213: -5512704854902452163
+    second: wateranimate2_100
+  - first:
+      213: -4608804137892958014
+    second: wateranimate2_101
+  - first:
+      213: 1625387382280826458
+    second: wateranimate2_102
+  - first:
+      213: -1212462023618881964
+    second: wateranimate2_103
+  - first:
+      213: 402147984978927682
+    second: wateranimate2_104
+  - first:
+      213: -6026757103970219111
+    second: wateranimate2_105
+  - first:
+      213: -6417376176599109302
+    second: wateranimate2_106
+  - first:
+      213: 483684510127057571
+    second: wateranimate2_107
+  - first:
+      213: 4992727945974537206
+    second: wateranimate2_108
+  - first:
+      213: 3800148458818015959
+    second: wateranimate2_109
+  - first:
+      213: -6651599424740148888
+    second: wateranimate2_110
+  - first:
+      213: -8198481305814309886
+    second: wateranimate2_111
+  - first:
+      213: 1949731907706104898
+    second: wateranimate2_112
+  - first:
+      213: -8910544789669499257
+    second: wateranimate2_113
+  - first:
+      213: 574468639712333120
+    second: wateranimate2_114
+  - first:
+      213: 8538727464469947617
+    second: wateranimate2_115
+  - first:
+      213: 2997573080144400927
+    second: wateranimate2_116
+  - first:
+      213: 3777419412287298979
+    second: wateranimate2_117
+  - first:
+      213: 1356054319389878091
+    second: wateranimate2_118
+  - first:
+      213: -3932403737109622949
+    second: wateranimate2_119
+  - first:
+      213: 6489834420760041539
+    second: wateranimate2_120
+  - first:
+      213: -1708828094284968040
+    second: wateranimate2_121
+  - first:
+      213: -9066339251797705185
+    second: wateranimate2_122
+  - first:
+      213: -5475429502816133729
+    second: wateranimate2_123
+  - first:
+      213: 3143923662210000790
+    second: wateranimate2_124
+  - first:
+      213: 8037873828642363503
+    second: wateranimate2_125
+  - first:
+      213: -6489581753262924009
+    second: wateranimate2_126
+  - first:
+      213: 694855500770010585
+    second: wateranimate2_127
+  - first:
+      213: -1844629810431124503
+    second: wateranimate2_128
+  - first:
+      213: 6473742636648498104
+    second: wateranimate2_129
+  - first:
+      213: -5980808977164120736
+    second: wateranimate2_130
+  - first:
+      213: 5587887621711892562
+    second: wateranimate2_131
+  - first:
+      213: 6994388743516105383
+    second: wateranimate2_132
+  - first:
+      213: 330373726717389542
+    second: wateranimate2_133
+  - first:
+      213: 9061098218121864160
+    second: wateranimate2_134
+  - first:
+      213: 7840657925372810862
+    second: wateranimate2_135
+  - first:
+      213: 3792697220392901301
+    second: wateranimate2_136
+  - first:
+      213: 4569970152679144179
+    second: wateranimate2_137
+  - first:
+      213: 7097273265253238946
+    second: wateranimate2_138
+  - first:
+      213: -9217514684015894048
+    second: wateranimate2_139
+  - first:
+      213: -3226391152717407723
+    second: wateranimate2_140
+  - first:
+      213: -4208367092731348927
+    second: wateranimate2_141
+  - first:
+      213: 5988724583631030232
+    second: wateranimate2_142
+  - first:
+      213: -6371502720994168644
+    second: wateranimate2_143
+  - first:
+      213: 220565716416524988
+    second: wateranimate2_144
+  - first:
+      213: 5516698523863815057
+    second: wateranimate2_145
+  - first:
+      213: 4388085522706810392
+    second: wateranimate2_146
+  - first:
+      213: -3227658302993234278
+    second: wateranimate2_147
+  - first:
+      213: 8458263635905988525
+    second: wateranimate2_148
+  - first:
+      213: -7871855039099298981
+    second: wateranimate2_149
+  - first:
+      213: 4185018876532939468
+    second: wateranimate2_150
+  - first:
+      213: -3497356678216961589
+    second: wateranimate2_151
+  - first:
+      213: 248280907463811659
+    second: wateranimate2_152
+  - first:
+      213: -813854096712758317
+    second: wateranimate2_153
+  - first:
+      213: 1492445574151814932
+    second: wateranimate2_154
+  - first:
+      213: 3862117115785173034
+    second: wateranimate2_155
+  - first:
+      213: 3292964389795337949
+    second: wateranimate2_156
+  - first:
+      213: 217012898610569823
+    second: wateranimate2_157
+  - first:
+      213: -926066154255132700
+    second: wateranimate2_158
+  - first:
+      213: 6507545923676966421
+    second: wateranimate2_159
+  - first:
+      213: 6735008830789610983
+    second: wateranimate2_160
+  - first:
+      213: -418725627186139904
+    second: wateranimate2_161
+  - first:
+      213: 6567912150975957556
+    second: wateranimate2_162
+  - first:
+      213: 262318573582457995
+    second: wateranimate2_163
+  - first:
+      213: 3901804254900988584
+    second: wateranimate2_164
+  - first:
+      213: 7255849759973476550
+    second: wateranimate2_165
+  - first:
+      213: 8961506312421764978
+    second: wateranimate2_166
+  - first:
+      213: 1326155065491657814
+    second: wateranimate2_167
+  - first:
+      213: 4058573700471781810
+    second: wateranimate2_168
+  - first:
+      213: -4379048115321492626
+    second: wateranimate2_169
+  - first:
+      213: 3667163728462719451
+    second: wateranimate2_170
+  - first:
+      213: 7810724819332788333
+    second: wateranimate2_171
+  - first:
+      213: 2521078466597668920
+    second: wateranimate2_172
+  - first:
+      213: 1303610372124071684
+    second: wateranimate2_173
+  - first:
+      213: -7677718641906293992
+    second: wateranimate2_174
+  - first:
+      213: 2607960634900250419
+    second: wateranimate2_175
+  - first:
+      213: 2238798514005900079
+    second: wateranimate2_176
+  - first:
+      213: -2140231943462337
+    second: wateranimate2_177
+  - first:
+      213: -802669003845327637
+    second: wateranimate2_178
+  - first:
+      213: -3157901631241162318
+    second: wateranimate2_179
+  - first:
+      213: -5581111483498913248
+    second: wateranimate2_180
+  - first:
+      213: -4705683838750980801
+    second: wateranimate2_181
+  - first:
+      213: 8901076289440687313
+    second: wateranimate2_182
+  - first:
+      213: 6659845254460371040
+    second: wateranimate2_183
+  - first:
+      213: -3413709013891062269
+    second: wateranimate2_184
+  - first:
+      213: 1787279465278976772
+    second: wateranimate2_185
+  - first:
+      213: 8903940011238979325
+    second: wateranimate2_186
+  - first:
+      213: -8497128490564136626
+    second: wateranimate2_187
+  - first:
+      213: -6333954502069141220
+    second: wateranimate2_188
+  - first:
+      213: -580239185867218499
+    second: wateranimate2_189
+  - first:
+      213: 222555956879562605
+    second: wateranimate2_190
+  - first:
+      213: -8790846580632623724
+    second: wateranimate2_191
+  - first:
+      213: 4201924205342888580
+    second: wateranimate2_192
+  - first:
+      213: -3996522101585733714
+    second: wateranimate2_193
+  - first:
+      213: 5743401530305436874
+    second: wateranimate2_194
+  - first:
+      213: -9064189617381569634
+    second: wateranimate2_195
+  - first:
+      213: 6747590709028738566
+    second: wateranimate2_196
+  - first:
+      213: 6837683211554899829
+    second: wateranimate2_197
+  - first:
+      213: -3426386243317482396
+    second: wateranimate2_198
+  - first:
+      213: -5794372726274903412
+    second: wateranimate2_199
+  - first:
+      213: -609777110080748530
+    second: wateranimate2_200
+  - first:
+      213: -566118486690554688
+    second: wateranimate2_201
+  - first:
+      213: 5804150458950856107
+    second: wateranimate2_202
+  - first:
+      213: -3671572665570423492
+    second: wateranimate2_203
+  - first:
+      213: -5377846894584025112
+    second: wateranimate2_204
+  - first:
+      213: 812374941764703025
+    second: wateranimate2_205
+  - first:
+      213: -2653488607787913609
+    second: wateranimate2_206
+  - first:
+      213: -7199814300215945870
+    second: wateranimate2_207
+  - first:
+      213: 1321241755111229053
+    second: wateranimate2_208
+  - first:
+      213: 1274618840663144571
+    second: wateranimate2_209
+  - first:
+      213: -4765392436590215477
+    second: wateranimate2_210
+  - first:
+      213: 8340798804938938890
+    second: wateranimate2_211
+  - first:
+      213: 4522564699992873286
+    second: wateranimate2_212
+  - first:
+      213: 8661544969177133851
+    second: wateranimate2_213
+  - first:
+      213: -2450444261766408606
+    second: wateranimate2_214
+  - first:
+      213: 2682266926556087103
+    second: wateranimate2_215
+  - first:
+      213: -5093172606074334814
+    second: wateranimate2_216
+  - first:
+      213: -6267877611619568153
+    second: wateranimate2_217
+  - first:
+      213: 23989234274861377
+    second: wateranimate2_218
+  - first:
+      213: -3982410025908670187
+    second: wateranimate2_219
+  - first:
+      213: -5589903677856612384
+    second: wateranimate2_220
+  - first:
+      213: -4029448432377343165
+    second: wateranimate2_221
+  - first:
+      213: 4639189173750730998
+    second: wateranimate2_222
+  - first:
+      213: -7653783468097443994
+    second: wateranimate2_223
+  - first:
+      213: -3098997990818643513
+    second: wateranimate2_224
+  - first:
+      213: -4913677514362816780
+    second: wateranimate2_225
+  - first:
+      213: 2012122163960088334
+    second: wateranimate2_226
+  - first:
+      213: -4409010902218285724
+    second: wateranimate2_227
+  - first:
+      213: -3498227425055883973
+    second: wateranimate2_228
+  - first:
+      213: -8089047960291347985
+    second: wateranimate2_229
+  - first:
+      213: 8157672212790021484
+    second: wateranimate2_230
+  - first:
+      213: -5019897516671947607
+    second: wateranimate2_231
+  - first:
+      213: 8636258546844385256
+    second: wateranimate2_232
+  - first:
+      213: -6047301856603087701
+    second: wateranimate2_233
+  - first:
+      213: 4760291446418486876
+    second: wateranimate2_234
+  - first:
+      213: -6486726971042741003
+    second: wateranimate2_235
+  - first:
+      213: -3048707375679586547
+    second: wateranimate2_236
+  - first:
+      213: 486169604470235524
+    second: wateranimate2_237
+  - first:
+      213: 7947628462412903597
+    second: wateranimate2_238
+  - first:
+      213: 6568938374134046771
+    second: wateranimate2_239
+  - first:
+      213: 5494042501636502509
+    second: wateranimate2_240
+  - first:
+      213: 9088092194560152612
+    second: wateranimate2_241
+  - first:
+      213: -4135751715655337510
+    second: wateranimate2_242
+  - first:
+      213: 1296524171603246147
+    second: wateranimate2_243
+  - first:
+      213: 4945060347257109301
+    second: wateranimate2_244
+  - first:
+      213: -7484370505841818648
+    second: wateranimate2_245
+  - first:
+      213: 5198287946936797470
+    second: wateranimate2_246
+  - first:
+      213: -9142800146375826571
+    second: wateranimate2_247
+  - first:
+      213: 6980726753833716971
+    second: wateranimate2_248
+  - first:
+      213: -384821125267956693
+    second: wateranimate2_249
+  - first:
+      213: 6772688024850822910
+    second: wateranimate2_250
+  - first:
+      213: 7206816975115166260
+    second: wateranimate2_251
+  - first:
+      213: -3892875383400374037
+    second: wateranimate2_252
+  - first:
+      213: 9219347153515911992
+    second: wateranimate2_253
+  - first:
+      213: -3767377682253582567
+    second: wateranimate2_254
+  - first:
+      213: 8012154523547902421
+    second: wateranimate2_255
+  - first:
+      213: -1982354516361614500
+    second: wateranimate2_256
+  - first:
+      213: -5073496091731637631
+    second: wateranimate2_257
+  - first:
+      213: 2406131483734565091
+    second: wateranimate2_258
+  - first:
+      213: -4531659417479452475
+    second: wateranimate2_259
+  - first:
+      213: -68761017621286971
+    second: wateranimate2_260
+  - first:
+      213: -5809848591693927449
+    second: wateranimate2_261
+  - first:
+      213: -5530860209918235512
+    second: wateranimate2_262
+  - first:
+      213: -4484433236940320464
+    second: wateranimate2_263
+  - first:
+      213: -8589504889833624289
+    second: wateranimate2_264
+  - first:
+      213: 7002203618595526120
+    second: wateranimate2_265
+  - first:
+      213: 4304438196840372112
+    second: wateranimate2_266
+  - first:
+      213: 4039517701097389733
+    second: wateranimate2_267
+  - first:
+      213: 3480973784633128993
+    second: wateranimate2_268
+  - first:
+      213: -5926487339937522031
+    second: wateranimate2_269
+  - first:
+      213: -6918598415725045913
+    second: wateranimate2_270
+  - first:
+      213: -3785959740177745288
+    second: wateranimate2_271
+  - first:
+      213: -3619189424116493379
+    second: wateranimate2_272
+  - first:
+      213: -1912858775574959707
+    second: wateranimate2_273
+  - first:
+      213: 1588395144767600363
+    second: wateranimate2_274
+  - first:
+      213: -6586758421242133489
+    second: wateranimate2_275
+  - first:
+      213: -2921893634806054100
+    second: wateranimate2_276
+  - first:
+      213: 5008249512194705570
+    second: wateranimate2_277
+  - first:
+      213: 4038664813407973137
+    second: wateranimate2_278
+  - first:
+      213: 3518773814580643297
+    second: wateranimate2_279
+  - first:
+      213: -6368641974870526371
+    second: wateranimate2_280
+  - first:
+      213: 7219507351482053411
+    second: wateranimate2_281
+  - first:
+      213: -4947768999910278107
+    second: wateranimate2_282
+  - first:
+      213: 8193618123085832295
+    second: wateranimate2_283
+  - first:
+      213: 1279265977427049428
+    second: wateranimate2_284
+  - first:
+      213: 557962486188171887
+    second: wateranimate2_285
+  - first:
+      213: -3501253059645497799
+    second: wateranimate2_286
+  - first:
+      213: -5397799101277748219
+    second: wateranimate2_287
+  - first:
+      213: 6732296592999212314
+    second: wateranimate2_288
+  - first:
+      213: -1790144524269959193
+    second: wateranimate2_289
+  - first:
+      213: -2524437092655907081
+    second: wateranimate2_290
+  - first:
+      213: 3644309869509439555
+    second: wateranimate2_291
+  - first:
+      213: -4396913889893473743
+    second: wateranimate2_292
+  - first:
+      213: -6853644896283377908
+    second: wateranimate2_293
+  - first:
+      213: -8025939265208113825
+    second: wateranimate2_294
+  - first:
+      213: -5358241968132868423
+    second: wateranimate2_295
+  - first:
+      213: 746538907025917598
+    second: wateranimate2_296
+  - first:
+      213: -6689366632362196225
+    second: wateranimate2_297
+  - first:
+      213: -6009635059099717429
+    second: wateranimate2_298
+  - first:
+      213: -7608608648111825728
+    second: wateranimate2_299
+  - first:
+      213: -4876084911449132873
+    second: wateranimate2_300
+  - first:
+      213: 418376296505592215
+    second: wateranimate2_301
+  - first:
+      213: 1837066115752945268
+    second: wateranimate2_302
+  - first:
+      213: -5569019793977902587
+    second: wateranimate2_303
+  - first:
+      213: -7050692790318673420
+    second: wateranimate2_304
+  - first:
+      213: -5083441650296363606
+    second: wateranimate2_305
+  - first:
+      213: -6581746359730549480
+    second: wateranimate2_306
+  - first:
+      213: -4684553545807842721
+    second: wateranimate2_307
+  - first:
+      213: -8886984847290507341
+    second: wateranimate2_308
+  - first:
+      213: 3188609661630162582
+    second: wateranimate2_309
+  - first:
+      213: 2157484962364012315
+    second: wateranimate2_310
+  - first:
+      213: 8237408473596311028
+    second: wateranimate2_311
+  - first:
+      213: 1007041256334668799
+    second: wateranimate2_312
+  - first:
+      213: 5342594688072576642
+    second: wateranimate2_313
+  - first:
+      213: -6918425229419584404
+    second: wateranimate2_314
+  - first:
+      213: -4856131195777853211
+    second: wateranimate2_315
+  - first:
+      213: 5755401857019922735
+    second: wateranimate2_316
+  - first:
+      213: -5796741337500527507
+    second: wateranimate2_317
+  - first:
+      213: -1796016917434289957
+    second: wateranimate2_318
+  - first:
+      213: 1021277556561219215
+    second: wateranimate2_319
+  - first:
+      213: 5608954982639367872
+    second: wateranimate2_320
+  - first:
+      213: 7120695656621207434
+    second: wateranimate2_321
+  - first:
+      213: -2410466398900490702
+    second: wateranimate2_322
+  - first:
+      213: 6079684693174784535
+    second: wateranimate2_323
+  - first:
+      213: 1057367843700924467
+    second: wateranimate2_324
+  - first:
+      213: -7992615335757002501
+    second: wateranimate2_325
+  - first:
+      213: -3344701603342589255
+    second: wateranimate2_326
+  - first:
+      213: -2585377690961891929
+    second: wateranimate2_327
+  - first:
+      213: 2133305663941903581
+    second: wateranimate2_328
+  - first:
+      213: -5139321071386781411
+    second: wateranimate2_329
+  - first:
+      213: -7864770572368229611
+    second: wateranimate2_330
+  - first:
+      213: 295551919941079347
+    second: wateranimate2_331
+  - first:
+      213: 4424164493215258357
+    second: wateranimate2_332
+  - first:
+      213: -5314632051214396416
+    second: wateranimate2_333
+  - first:
+      213: -6908784161632670239
+    second: wateranimate2_334
+  - first:
+      213: 1465105951723987752
+    second: wateranimate2_335
+  - first:
+      213: 2449666768733359359
+    second: wateranimate2_336
+  - first:
+      213: 3461453226738055235
+    second: wateranimate2_337
+  - first:
+      213: 2184948908067352776
+    second: wateranimate2_338
+  - first:
+      213: 833705366584835363
+    second: wateranimate2_339
+  - first:
+      213: -7426930436348557807
+    second: wateranimate2_340
+  - first:
+      213: -1368748587244505016
+    second: wateranimate2_341
+  - first:
+      213: -2539363448633132217
+    second: wateranimate2_342
+  - first:
+      213: -5695556766977728240
+    second: wateranimate2_343
+  - first:
+      213: -7986749209873251648
+    second: wateranimate2_344
+  - first:
+      213: 8521361776956077159
+    second: wateranimate2_345
+  - first:
+      213: 5532204074813498108
+    second: wateranimate2_346
+  - first:
+      213: 3638486442922661393
+    second: wateranimate2_347
+  - first:
+      213: -245463468323972205
+    second: wateranimate2_348
+  - first:
+      213: -6782445979716003597
+    second: wateranimate2_349
+  - first:
+      213: 6930848770278779907
+    second: wateranimate2_350
+  - first:
+      213: -5456680933969256979
+    second: wateranimate2_351
+  - first:
+      213: -4025027586534919962
+    second: wateranimate2_352
+  - first:
+      213: 8683640491028187056
+    second: wateranimate2_353
+  - first:
+      213: -7219927933749348275
+    second: wateranimate2_354
+  - first:
+      213: -5845140328125781518
+    second: wateranimate2_355
+  - first:
+      213: 2040103093822268966
+    second: wateranimate2_356
+  - first:
+      213: 1320545008070704470
+    second: wateranimate2_357
+  - first:
+      213: 4643557035362569824
+    second: wateranimate2_358
+  - first:
+      213: -8000066097331414692
+    second: wateranimate2_359
+  - first:
+      213: -2542722677719979215
+    second: wateranimate2_360
+  - first:
+      213: -4795072864841715518
+    second: wateranimate2_361
+  - first:
+      213: -8531034226815769998
+    second: wateranimate2_362
+  - first:
+      213: 2619588013069506223
+    second: wateranimate2_363
+  - first:
+      213: 1713695196138886933
+    second: wateranimate2_364
+  - first:
+      213: -2253273293349761920
+    second: wateranimate2_365
+  - first:
+      213: -5175900163448497647
+    second: wateranimate2_366
+  - first:
+      213: 3152490824687397773
+    second: wateranimate2_367
+  - first:
+      213: -1630180510208079946
+    second: wateranimate2_368
+  - first:
+      213: -7644893983295743288
+    second: wateranimate2_369
+  - first:
+      213: -619809305254934572
+    second: wateranimate2_370
+  - first:
+      213: 2529191920373349402
+    second: wateranimate2_371
+  - first:
+      213: -4687624474782429540
+    second: wateranimate2_372
+  - first:
+      213: -2319279387897266495
+    second: wateranimate2_373
+  - first:
+      213: 3136975449348967424
+    second: wateranimate2_374
+  - first:
+      213: -2792837859702677042
+    second: wateranimate2_375
+  - first:
+      213: -6986865196954974847
+    second: wateranimate2_376
+  - first:
+      213: 7266955538659307586
+    second: wateranimate2_377
+  - first:
+      213: 7649822146594430868
+    second: wateranimate2_378
+  - first:
+      213: 2295262019483102087
+    second: wateranimate2_379
+  - first:
+      213: -2493702570604671097
+    second: wateranimate2_380
+  - first:
+      213: 5442446258030952839
+    second: wateranimate2_381
+  - first:
+      213: -2800789339924753328
+    second: wateranimate2_382
+  - first:
+      213: 5459733720724228566
+    second: wateranimate2_383
+  - first:
+      213: 1322167852096408973
+    second: wateranimate2_384
+  - first:
+      213: 122741546815472419
+    second: wateranimate2_385
+  - first:
+      213: 5781042772596512268
+    second: wateranimate2_386
+  - first:
+      213: 905720156911105702
+    second: wateranimate2_387
+  - first:
+      213: -6482412076375916865
+    second: wateranimate2_388
+  - first:
+      213: -3502655514936307279
+    second: wateranimate2_389
+  - first:
+      213: -348953051981151938
+    second: wateranimate2_390
+  - first:
+      213: 4588026721835651130
+    second: wateranimate2_391
+  - first:
+      213: -6507679647357501198
+    second: wateranimate2_392
+  - first:
+      213: -1962226334466353313
+    second: wateranimate2_393
+  - first:
+      213: 8164316052469262716
+    second: wateranimate2_394
+  - first:
+      213: -7445490322129039926
+    second: wateranimate2_395
+  - first:
+      213: -3761004094949657286
+    second: wateranimate2_396
+  - first:
+      213: -7128061582116304924
+    second: wateranimate2_397
+  - first:
+      213: -30089299391158795
+    second: wateranimate2_398
+  - first:
+      213: 6999904655174744251
+    second: wateranimate2_399
+  - first:
+      213: -5062103742683273834
+    second: wateranimate2_400
+  - first:
+      213: 6578029876461156276
+    second: wateranimate2_401
+  - first:
+      213: -6159546297443091754
+    second: wateranimate2_402
+  - first:
+      213: -8680578995653439163
+    second: wateranimate2_403
+  - first:
+      213: 2777917420936191238
+    second: wateranimate2_404
+  - first:
+      213: 5730466789436945122
+    second: wateranimate2_405
+  - first:
+      213: 5225772893242224661
+    second: wateranimate2_406
+  - first:
+      213: 2439789741770970528
+    second: wateranimate2_407
+  - first:
+      213: -325050957273945768
+    second: wateranimate2_408
+  - first:
+      213: -4285145677666775679
+    second: wateranimate2_409
+  - first:
+      213: -8097335006268124468
+    second: wateranimate2_410
+  - first:
+      213: -7135302397973756640
+    second: wateranimate2_411
+  - first:
+      213: 3418516044083548240
+    second: wateranimate2_412
+  - first:
+      213: -558085087001236328
+    second: wateranimate2_413
+  - first:
+      213: 2861812751368967996
+    second: wateranimate2_414
+  - first:
+      213: 6309677520075807167
+    second: wateranimate2_415
+  - first:
+      213: 5040223232574876701
+    second: wateranimate2_416
+  - first:
+      213: -3322886945579352911
+    second: wateranimate2_417
+  - first:
+      213: -5143709473809807531
+    second: wateranimate2_418
+  - first:
+      213: -2251951300698332237
+    second: wateranimate2_419
+  - first:
+      213: -2950044648964009568
+    second: wateranimate2_420
+  - first:
+      213: -6185991855308216051
+    second: wateranimate2_421
+  - first:
+      213: -7064105896952117622
+    second: wateranimate2_422
+  - first:
+      213: 2312286073137833552
+    second: wateranimate2_423
+  - first:
+      213: -5819567786035169491
+    second: wateranimate2_424
+  - first:
+      213: 5684767994632097794
+    second: wateranimate2_425
+  - first:
+      213: 6614369518936868867
+    second: wateranimate2_426
+  - first:
+      213: -4254454030243144065
+    second: wateranimate2_427
+  - first:
+      213: 8498717731399524238
+    second: wateranimate2_428
+  - first:
+      213: 4742526919962011559
+    second: wateranimate2_429
+  - first:
+      213: -2054780663061681843
+    second: wateranimate2_430
+  - first:
+      213: -7968998495604235897
+    second: wateranimate2_431
+  - first:
+      213: -6336065789840311592
+    second: wateranimate2_432
+  - first:
+      213: -4535305276945103703
+    second: wateranimate2_433
+  - first:
+      213: 528432696713183948
+    second: wateranimate2_434
+  - first:
+      213: -1365990518755950110
+    second: wateranimate2_435
+  - first:
+      213: 1024977796277194559
+    second: wateranimate2_436
+  - first:
+      213: 641175086053912850
+    second: wateranimate2_437
+  - first:
+      213: 3767612227818667435
+    second: wateranimate2_438
+  - first:
+      213: -5418781162159463189
+    second: wateranimate2_439
+  - first:
+      213: 4297028382675096026
+    second: wateranimate2_440
+  - first:
+      213: -5596991344787267177
+    second: wateranimate2_441
+  - first:
+      213: 3239493551222333942
+    second: wateranimate2_442
+  - first:
+      213: -8305085811197715805
+    second: wateranimate2_443
+  - first:
+      213: -494949264861826298
+    second: wateranimate2_444
+  - first:
+      213: -734382203120116073
+    second: wateranimate2_445
+  - first:
+      213: 2882139827219459563
+    second: wateranimate2_446
+  - first:
+      213: -6243531244510777506
+    second: wateranimate2_447
+  - first:
+      213: -2670479886146702848
+    second: wateranimate2_448
+  - first:
+      213: 1183889933088915370
+    second: wateranimate2_449
+  - first:
+      213: -7083297223423879606
+    second: wateranimate2_450
+  - first:
+      213: 5329338938499683591
+    second: wateranimate2_451
+  - first:
+      213: 2389311419907638010
+    second: wateranimate2_452
+  - first:
+      213: -2631080515174152087
+    second: wateranimate2_453
+  - first:
+      213: 6910376457668306989
+    second: wateranimate2_454
+  - first:
+      213: -8042351752633761423
+    second: wateranimate2_455
+  - first:
+      213: -1491480086302887813
+    second: wateranimate2_456
+  - first:
+      213: -5727804621015121222
+    second: wateranimate2_457
+  - first:
+      213: 1476987681447642108
+    second: wateranimate2_458
+  - first:
+      213: -215600857722648364
+    second: wateranimate2_459
+  - first:
+      213: -7323082457502503332
+    second: wateranimate2_460
+  - first:
+      213: 7651591847926535487
+    second: wateranimate2_461
+  - first:
+      213: 6533313329208595501
+    second: wateranimate2_462
+  - first:
+      213: 4276267726326536276
+    second: wateranimate2_463
+  - first:
+      213: 5573722864118567706
+    second: wateranimate2_464
+  - first:
+      213: 2158858794751666575
+    second: wateranimate2_465
+  - first:
+      213: -3115750706709084899
+    second: wateranimate2_466
+  - first:
+      213: -5992567715103974793
+    second: wateranimate2_467
+  - first:
+      213: 6013587054373474688
+    second: wateranimate2_468
+  - first:
+      213: -2689431820216462667
+    second: wateranimate2_469
+  - first:
+      213: -6208889973351417940
+    second: wateranimate2_470
+  - first:
+      213: -5986695107799934796
+    second: wateranimate2_471
+  - first:
+      213: 2894600697155734988
+    second: wateranimate2_472
+  - first:
+      213: -8357829043933796498
+    second: wateranimate2_473
+  - first:
+      213: -6475457642783505370
+    second: wateranimate2_474
+  - first:
+      213: 36894621051346408
+    second: wateranimate2_475
+  - first:
+      213: 1626906639565318778
+    second: wateranimate2_476
+  - first:
+      213: -4017580698274159230
+    second: wateranimate2_477
+  - first:
+      213: -2185915876510832799
+    second: wateranimate2_478
+  - first:
+      213: 1687005924558188661
+    second: wateranimate2_479
+  - first:
+      213: -72158611400292821
+    second: wateranimate2_480
+  - first:
+      213: 6494626660254950065
+    second: wateranimate2_481
+  - first:
+      213: -3042801547532119028
+    second: wateranimate2_482
+  - first:
+      213: 6697269557508234333
+    second: wateranimate2_483
+  - first:
+      213: 1852108357906578335
+    second: wateranimate2_484
+  - first:
+      213: 613201077381802726
+    second: wateranimate2_485
+  - first:
+      213: 90768274093650064
+    second: wateranimate2_486
+  - first:
+      213: 9086451455104293233
+    second: wateranimate2_487
+  - first:
+      213: 4202029112404823495
+    second: wateranimate2_488
+  - first:
+      213: -4202222470078407394
+    second: wateranimate2_489
+  - first:
+      213: 3009115412168799215
+    second: wateranimate2_490
+  - first:
+      213: 1746039891421828949
+    second: wateranimate2_491
+  - first:
+      213: -4146160952581155053
+    second: wateranimate2_492
+  - first:
+      213: -3422703195178269387
+    second: wateranimate2_493
+  - first:
+      213: 7860813575848290272
+    second: wateranimate2_494
+  - first:
+      213: -6682690259347149047
+    second: wateranimate2_495
+  - first:
+      213: -921521949272828298
+    second: wateranimate2_496
+  - first:
+      213: 531587258349242945
+    second: wateranimate2_497
+  - first:
+      213: 1160452674579944706
+    second: wateranimate2_498
+  - first:
+      213: -364961703788985932
+    second: wateranimate2_499
+  - first:
+      213: 507330071812404396
+    second: wateranimate2_500
+  - first:
+      213: 1114212818357347028
+    second: wateranimate2_501
+  - first:
+      213: -9135073797707601316
+    second: wateranimate2_502
+  - first:
+      213: 3634155841984777510
+    second: wateranimate2_503
+  - first:
+      213: -3734790811286601925
+    second: wateranimate2_504
+  - first:
+      213: -3662074884207654571
+    second: wateranimate2_505
+  - first:
+      213: -6605217812631106818
+    second: wateranimate2_506
+  - first:
+      213: 8399905080146721383
+    second: wateranimate2_507
+  - first:
+      213: 1028166183364629002
+    second: wateranimate2_508
+  - first:
+      213: -8400566692929437929
+    second: wateranimate2_509
+  - first:
+      213: 7932857920007899253
+    second: wateranimate2_510
+  - first:
+      213: 8955911592269497566
+    second: wateranimate2_511
+  - first:
+      213: -7767795549407553432
+    second: wateranimate2_512
+  - first:
+      213: -7539756059670913080
+    second: wateranimate2_513
+  - first:
+      213: -4784425913425482324
+    second: wateranimate2_514
+  - first:
+      213: -2599515116817427043
+    second: wateranimate2_515
+  - first:
+      213: -1206707133478749839
+    second: wateranimate2_516
+  - first:
+      213: -3481592834157900757
+    second: wateranimate2_517
+  - first:
+      213: 1473359345581656952
+    second: wateranimate2_518
+  - first:
+      213: 3871590526374442211
+    second: wateranimate2_519
+  - first:
+      213: 306860749785985720
+    second: wateranimate2_520
+  - first:
+      213: -8545197232670063580
+    second: wateranimate2_521
+  - first:
+      213: 2082939262311059852
+    second: wateranimate2_522
+  - first:
+      213: -4700319332115583798
+    second: wateranimate2_523
+  - first:
+      213: -5469817650253121291
+    second: wateranimate2_524
+  - first:
+      213: 3798410682114188460
+    second: wateranimate2_525
+  - first:
+      213: 7547040825002006031
+    second: wateranimate2_526
+  - first:
+      213: 1572792033331377171
+    second: wateranimate2_527
+  - first:
+      213: 4351013525201723477
+    second: wateranimate2_528
+  - first:
+      213: 1403289850161111524
+    second: wateranimate2_529
+  - first:
+      213: -6926965056701428394
+    second: wateranimate2_530
+  - first:
+      213: -611612316267173843
+    second: wateranimate2_531
+  - first:
+      213: -6836486711879780957
+    second: wateranimate2_532
+  - first:
+      213: 2802816937840755300
+    second: wateranimate2_533
+  - first:
+      213: -4108250776188159297
+    second: wateranimate2_534
+  - first:
+      213: 5071796679354368957
+    second: wateranimate2_535
+  - first:
+      213: -1000873507511839874
+    second: wateranimate2_536
+  - first:
+      213: -106258209756402416
+    second: wateranimate2_537
+  - first:
+      213: 3693625362458254675
+    second: wateranimate2_538
+  - first:
+      213: -7298759874428328181
+    second: wateranimate2_539
+  - first:
+      213: 7809085224029396910
+    second: wateranimate2_540
+  - first:
+      213: 802002324085949859
+    second: wateranimate2_541
+  - first:
+      213: -442114158072271698
+    second: wateranimate2_542
+  - first:
+      213: 4567162913002172319
+    second: wateranimate2_543
+  - first:
+      213: 933235256248025251
+    second: wateranimate2_544
+  - first:
+      213: 503423934988345278
+    second: wateranimate2_545
+  - first:
+      213: -8247019521202835180
+    second: wateranimate2_546
+  - first:
+      213: -337595835142284673
+    second: wateranimate2_547
+  - first:
+      213: -1632467847524709203
+    second: wateranimate2_548
+  - first:
+      213: 2824324969090980342
+    second: wateranimate2_549
+  - first:
+      213: -3983537906736585825
+    second: wateranimate2_550
+  - first:
+      213: -3540171122315287292
+    second: wateranimate2_551
+  - first:
+      213: 2462354471531577408
+    second: wateranimate2_552
+  - first:
+      213: -8567264092036053108
+    second: wateranimate2_553
+  - first:
+      213: -8170175451185301318
+    second: wateranimate2_554
+  - first:
+      213: -5989093132580543977
+    second: wateranimate2_555
+  - first:
+      213: -6757503404029159791
+    second: wateranimate2_556
+  - first:
+      213: -8460543114113418530
+    second: wateranimate2_557
+  - first:
+      213: -7027412783498250133
+    second: wateranimate2_558
+  - first:
+      213: -7448331715757866570
+    second: wateranimate2_559
+  - first:
+      213: 1626835417691626285
+    second: wateranimate2_560
+  - first:
+      213: -647822390251509603
+    second: wateranimate2_561
+  - first:
+      213: -6247550799480208717
+    second: wateranimate2_562
+  - first:
+      213: 5854427359166608150
+    second: wateranimate2_563
+  - first:
+      213: 6424686549202692246
+    second: wateranimate2_564
+  - first:
+      213: 5145918803133499716
+    second: wateranimate2_565
+  - first:
+      213: 5836834952319593675
+    second: wateranimate2_566
+  - first:
+      213: -3287031657031515692
+    second: wateranimate2_567
+  - first:
+      213: -2820243481284131860
+    second: wateranimate2_568
+  - first:
+      213: 6157681274591931081
+    second: wateranimate2_569
+  - first:
+      213: -7585300203499500990
+    second: wateranimate2_570
+  - first:
+      213: -1917270730077586577
+    second: wateranimate2_571
+  - first:
+      213: 3222496500929168630
+    second: wateranimate2_572
+  - first:
+      213: -8419221850152378223
+    second: wateranimate2_573
+  - first:
+      213: -8358077186151793626
+    second: wateranimate2_574
+  - first:
+      213: -5701527310449332306
+    second: wateranimate2_575
+  - first:
+      213: -8326869907728180293
+    second: wateranimate2_576
+  - first:
+      213: 9205576075106439408
+    second: wateranimate2_577
+  - first:
+      213: -7149180259748228247
+    second: wateranimate2_578
+  - first:
+      213: 1029006170193562744
+    second: wateranimate2_579
+  - first:
+      213: -4085730595984719521
+    second: wateranimate2_580
+  - first:
+      213: -3428023071631833429
+    second: wateranimate2_581
+  - first:
+      213: -2975302400625536468
+    second: wateranimate2_582
+  - first:
+      213: -2446989518947538608
+    second: wateranimate2_583
+  - first:
+      213: 5913699953959774947
+    second: wateranimate2_584
+  - first:
+      213: -7769579805177771843
+    second: wateranimate2_585
+  - first:
+      213: 7489389645445866694
+    second: wateranimate2_586
+  - first:
+      213: -4116200726627159284
+    second: wateranimate2_587
+  - first:
+      213: 5248269659339193210
+    second: wateranimate2_588
+  - first:
+      213: 7076379949613692972
+    second: wateranimate2_589
+  - first:
+      213: 8339956453175205142
+    second: wateranimate2_590
+  - first:
+      213: -8411652287662038610
+    second: wateranimate2_591
+  - first:
+      213: -8074053230206104098
+    second: wateranimate2_592
+  - first:
+      213: -2047460393598491538
+    second: wateranimate2_593
+  - first:
+      213: -7021345025277894238
+    second: wateranimate2_594
+  - first:
+      213: 271797699094355266
+    second: wateranimate2_595
+  - first:
+      213: -932350396382802382
+    second: wateranimate2_596
+  - first:
+      213: -3508190674258307589
+    second: wateranimate2_597
+  - first:
+      213: -7191294762658528015
+    second: wateranimate2_598
+  - first:
+      213: 8851799615050922568
+    second: wateranimate2_599
+  - first:
+      213: 3298821196561481368
+    second: wateranimate2_600
+  - first:
+      213: 7630285486391507653
+    second: wateranimate2_601
+  - first:
+      213: 2558122519005109937
+    second: wateranimate2_602
+  - first:
+      213: 3863537886886192398
+    second: wateranimate2_603
+  - first:
+      213: 7177783364627727674
+    second: wateranimate2_604
+  - first:
+      213: 1774274541438873413
+    second: wateranimate2_605
+  - first:
+      213: -8830048594471855968
+    second: wateranimate2_606
+  - first:
+      213: 6687540429708428178
+    second: wateranimate2_607
+  - first:
+      213: -8418617862913535769
+    second: wateranimate2_608
+  - first:
+      213: 3942602992436021173
+    second: wateranimate2_609
+  - first:
+      213: -5269197657592266469
+    second: wateranimate2_610
+  - first:
+      213: -6664958438382614154
+    second: wateranimate2_611
+  - first:
+      213: 5602675323250685932
+    second: wateranimate2_612
+  - first:
+      213: -1921049554877405481
+    second: wateranimate2_613
+  - first:
+      213: 2399551051400555448
+    second: wateranimate2_614
+  - first:
+      213: 7939170389284074638
+    second: wateranimate2_615
+  - first:
+      213: -6831025457936506087
+    second: wateranimate2_616
+  - first:
+      213: -6394979618872901213
+    second: wateranimate2_617
+  - first:
+      213: 4204363357738474826
+    second: wateranimate2_618
+  - first:
+      213: 1563445680624199112
+    second: wateranimate2_619
+  - first:
+      213: -7327884776580856185
+    second: wateranimate2_620
+  - first:
+      213: 6764311872392691357
+    second: wateranimate2_621
+  - first:
+      213: -7505319854822439283
+    second: wateranimate2_622
+  - first:
+      213: -4757532772970232214
+    second: wateranimate2_623
+  - first:
+      213: 2116737649503411529
+    second: wateranimate2_624
+  - first:
+      213: -8414029327155836305
+    second: wateranimate2_625
+  - first:
+      213: -4312701913031451398
+    second: wateranimate2_626
+  - first:
+      213: -1743106719548551409
+    second: wateranimate2_627
+  - first:
+      213: -8853897103021348738
+    second: wateranimate2_628
+  - first:
+      213: 3545943991424327332
+    second: wateranimate2_629
+  - first:
+      213: -4943935633110031814
+    second: wateranimate2_630
+  - first:
+      213: -9099772788241560195
+    second: wateranimate2_631
+  - first:
+      213: -5225568761968899854
+    second: wateranimate2_632
+  - first:
+      213: -2954581027007094060
+    second: wateranimate2_633
+  - first:
+      213: 5551095557029828816
+    second: wateranimate2_634
+  - first:
+      213: -5797409093850698042
+    second: wateranimate2_635
+  - first:
+      213: -322961244290100912
+    second: wateranimate2_636
+  - first:
+      213: -3944548900391046316
+    second: wateranimate2_637
+  - first:
+      213: -8320536109595034227
+    second: wateranimate2_638
+  - first:
+      213: -4679161427461403043
+    second: wateranimate2_639
+  - first:
+      213: 1697792080635436689
+    second: wateranimate2_640
+  - first:
+      213: 1497221108880747968
+    second: wateranimate2_641
+  - first:
+      213: -6853724540384429188
+    second: wateranimate2_1
+  - first:
+      213: 7427421834440592827
+    second: wateranimate2_2
+  - first:
+      213: -9172425730577101117
+    second: wateranimate2_3
+  - first:
+      213: 7128106197386517987
+    second: wateranimate2_0
+  - first:
+      213: 5764639151763788139
+    second: water_ground_0
+  - first:
+      213: 6393123203730117073
+    second: water_ground_1
+  - first:
+      213: 315946954633002742
+    second: water_ground_2
+  - first:
+      213: 8914323001583892939
+    second: water_ground_3
+  - first:
+      213: -3238867053222131912
+    second: water_ground_4
+  - first:
+      213: 8395734280852842853
+    second: water_ground_5
+  - first:
+      213: 2591150515636938880
+    second: water_ground_6
+  - first:
+      213: -3350567653570228937
+    second: water_ground_7
+  - first:
+      213: -2381199392762939093
+    second: water_ground_8
+  - first:
+      213: -514989572437837097
+    second: water_ground_9
+  - first:
+      213: 1448488661579667240
+    second: water_ground_10
+  - first:
+      213: 8900030887710012759
+    second: water_ground_11
+  - first:
+      213: 2287948169368915530
+    second: water_ground_12
+  - first:
+      213: -8420751056410101300
+    second: water_ground_13
+  - first:
+      213: -2496658545651027626
+    second: water_ground_14
+  - first:
+      213: -4710854282402317018
+    second: water_ground_15
+  - first:
+      213: -4227474938002291464
+    second: water_ground_16
+  - first:
+      213: -548104468149650311
+    second: water_ground_17
+  - first:
+      213: 5968175505580495805
+    second: water_ground_18
+  - first:
+      213: 368602817075404421
+    second: water_ground_19
+  - first:
+      213: 5384419668251554578
+    second: water_ground_20
+  - first:
+      213: 5861880111211563478
+    second: water_ground_21
+  - first:
+      213: 2706350694963504952
+    second: water_ground_22
+  - first:
+      213: 1303990197640443847
+    second: water_ground_23
+  - first:
+      213: -4851720578801248556
+    second: water_ground_24
+  - first:
+      213: -7198695354708807173
+    second: water_ground_25
+  - first:
+      213: -3367715515542787282
+    second: water_ground_26
+  - first:
+      213: 5613908434035399974
+    second: water_ground_27
+  - first:
+      213: 5602374460439114659
+    second: water_ground_28
+  - first:
+      213: 606221821584789455
+    second: water_ground_29
+  - first:
+      213: 8467363344916515373
+    second: water_ground_30
+  - first:
+      213: -6407001935954930470
+    second: water_ground_31
+  - first:
+      213: -8890192736784034395
+    second: water_ground_32
+  - first:
+      213: -4895681812548127422
+    second: water_ground_33
+  - first:
+      213: 2170185714238815093
+    second: water_ground_34
+  - first:
+      213: 6136059199600097522
+    second: water_ground_35
+  - first:
+      213: 7508669900005144699
+    second: water_ground_36
+  - first:
+      213: 2737170742340762631
+    second: water_ground_37
+  - first:
+      213: -7403574271291184795
+    second: water_ground_38
+  - first:
+      213: 220660749972754622
+    second: water_ground_39
+  - first:
+      213: -7298296109483164521
+    second: water_ground_40
+  - first:
+      213: -411234968289985917
+    second: water_ground_41
+  - first:
+      213: 2251556607366310584
+    second: water_ground_42
+  - first:
+      213: 4468977668599463255
+    second: water_ground_43
+  - first:
+      213: 7797951898479443051
+    second: water_ground_44
+  - first:
+      213: -6498084519954483508
+    second: water_ground_45
+  - first:
+      213: -9170397109195274685
+    second: water_ground_46
+  - first:
+      213: -4683118827564558195
+    second: water_ground_47
+  - first:
+      213: -9213088978730607546
+    second: water_ground_48
+  - first:
+      213: -7264142255086036467
+    second: water_ground_49
+  - first:
+      213: 5660428207577947032
+    second: water_ground_50
+  - first:
+      213: -1844998869738970509
+    second: water_ground_51
+  - first:
+      213: -1486172014098266103
+    second: water_ground_52
+  - first:
+      213: 932165707278948824
+    second: water_ground_53
+  - first:
+      213: 8136198288112339129
+    second: water_ground_54
+  - first:
+      213: -2767599357486105200
+    second: water_ground_55
+  - first:
+      213: -4064056578649920850
+    second: water_ground_56
+  - first:
+      213: 7068709312947088264
+    second: water_ground_57
+  - first:
+      213: 212110328608813594
+    second: water_ground_58
+  - first:
+      213: 3694019384851296703
+    second: water_ground_59
+  - first:
+      213: -5046539067194764407
+    second: water_ground_60
+  - first:
+      213: -2199931659038293293
+    second: water_ground_61
+  - first:
+      213: 2621188926867876220
+    second: water_ground_62
+  - first:
+      213: 8513594399738000682
+    second: water_ground_63
+  - first:
+      213: -8748646700699198149
+    second: water_ground_64
+  - first:
+      213: -3960856452761550333
+    second: water_ground_65
+  - first:
+      213: 8776030698939584475
+    second: water_ground_66
+  - first:
+      213: 9055994505064135704
+    second: water_ground_67
+  - first:
+      213: -8102502720542668688
+    second: water_ground_68
+  - first:
+      213: -8120497221106376723
+    second: water_ground_69
+  - first:
+      213: -4505645897086426590
+    second: water_ground_70
+  - first:
+      213: -1409434208975882327
+    second: water_ground_71
+  - first:
+      213: -3919883085483208555
+    second: water_ground_72
+  - first:
+      213: -1764391285131661914
+    second: water_ground_73
+  - first:
+      213: 8538632843446884361
+    second: water_ground_74
+  - first:
+      213: -3687105055440486813
+    second: water_ground_75
+  - first:
+      213: -1921372760516451412
+    second: water_ground_76
+  - first:
+      213: -4845928139406238889
+    second: water_ground_77
+  - first:
+      213: -5324927894361491950
+    second: water_ground_78
+  - first:
+      213: 4073163658791889305
+    second: water_ground_79
+  - first:
+      213: -2890923115159643975
+    second: water_ground_80
+  - first:
+      213: -2036725093668679916
+    second: water_ground_81
+  - first:
+      213: 6205130193962020019
+    second: water_ground_82
+  - first:
+      213: 6157906128123058970
+    second: water_ground_83
+  - first:
+      213: 8315989805718847440
+    second: water_ground_84
+  - first:
+      213: 4719885199634949161
+    second: water_ground_85
+  - first:
+      213: 2228809566952013282
+    second: water_ground_86
+  - first:
+      213: 4092490091905899901
+    second: water_ground_87
+  - first:
+      213: 7660069126022861736
+    second: water_ground_88
+  - first:
+      213: -6650879061530373468
+    second: water_ground_89
+  - first:
+      213: 3686290907808155225
+    second: water_ground_90
+  - first:
+      213: 9102239863066868724
+    second: water_ground_91
+  - first:
+      213: -2493041344885828567
+    second: water_ground_92
+  - first:
+      213: -6186096710902477573
+    second: water_ground_93
+  - first:
+      213: -2490809360587415081
+    second: water_ground_94
+  - first:
+      213: 6205020422178267518
+    second: water_ground_95
+  - first:
+      213: -95143871191103063
+    second: water_ground_96
+  - first:
+      213: 2881734440940994231
+    second: water_ground_97
+  - first:
+      213: 6801406338418154803
+    second: water_ground_98
+  - first:
+      213: -9177356273641391588
+    second: water_ground_99
+  - first:
+      213: -7362567267755286507
+    second: water_ground_100
+  - first:
+      213: 1384779090350296964
+    second: water_ground_101
+  - first:
+      213: 5123621847039153411
+    second: water_ground_102
+  - first:
+      213: -3192991728163360620
+    second: water_ground_103
+  - first:
+      213: -2658453334113516346
+    second: water_ground_104
+  - first:
+      213: 5219556338085934611
+    second: water_ground_105
+  - first:
+      213: -5811443795630092468
+    second: water_ground_106
+  - first:
+      213: -6047494413618026122
+    second: water_ground_107
+  - first:
+      213: -4746723909269069205
+    second: water_ground_108
+  - first:
+      213: -1264778851207682287
+    second: water_ground_109
+  - first:
+      213: 8895803095367875340
+    second: water_ground_110
+  - first:
+      213: 4142770316678483054
+    second: water_ground_111
+  - first:
+      213: -6463845502013666462
+    second: water_ground_112
+  - first:
+      213: 8119994301101897301
+    second: water_ground_113
+  - first:
+      213: -4915694986619115767
+    second: water_ground_114
+  - first:
+      213: 1382617676093408346
+    second: water_ground_115
+  - first:
+      213: -1916522515028222894
+    second: water_ground_116
+  - first:
+      213: 1633279646442390502
+    second: water_ground_117
+  - first:
+      213: -5604520387323730263
+    second: water_ground_118
+  - first:
+      213: -7188933114933389177
+    second: water_ground_119
+  - first:
+      213: -2049630146594197976
+    second: water_ground_120
+  - first:
+      213: -3560620200177674848
+    second: water_ground_121
+  - first:
+      213: -1524422688068010832
+    second: water_ground_122
+  - first:
+      213: 1432155617861257242
+    second: water_ground_123
+  - first:
+      213: -52477101590249166
+    second: water_ground_124
+  - first:
+      213: -1692449989326844163
+    second: water_ground_125
+  - first:
+      213: -5554748598680819101
+    second: water_ground_126
+  - first:
+      213: -2473015541796391983
+    second: water_ground_127
+  - first:
+      213: -2688761080119003489
+    second: water_ground_128
+  - first:
+      213: -4751745694251182344
+    second: water_ground_129
+  - first:
+      213: 2910872913275216551
+    second: water_ground_130
+  - first:
+      213: 7876112078335395739
+    second: water_ground_131
+  - first:
+      213: -6455735446807837128
+    second: water_ground_132
+  - first:
+      213: -7308645902640704933
+    second: water_ground_133
+  - first:
+      213: -2084418346834347589
+    second: water_ground_134
+  - first:
+      213: -8521944747430201140
+    second: water_ground_135
+  - first:
+      213: 1431972541753764746
+    second: water_ground_136
+  - first:
+      213: 4095719588998057020
+    second: water_ground_137
+  - first:
+      213: 3849704764606685340
+    second: water_ground_138
+  - first:
+      213: -5282546397149165378
+    second: water_ground_139
+  - first:
+      213: 5330354658011667780
+    second: water_ground_140
+  - first:
+      213: 9017484899646995781
+    second: water_ground_141
+  - first:
+      213: 2080099734161484481
+    second: water_ground_142
+  - first:
+      213: 6767613648504736179
+    second: water_ground_143
+  - first:
+      213: 3116609754299822338
+    second: water_ground_144
+  - first:
+      213: 8201118039456916375
+    second: water_ground_145
+  - first:
+      213: 5779324695335096154
+    second: water_ground_146
+  - first:
+      213: -552513150111388101
+    second: water_ground_147
+  - first:
+      213: -3548616826403158543
+    second: water_ground_148
+  - first:
+      213: -8264942256198202783
+    second: water_ground_149
+  - first:
+      213: 8380554676102671073
+    second: water_ground_150
+  - first:
+      213: -7865613432113217214
+    second: water_ground_151
+  - first:
+      213: 6039881336076490990
+    second: water_ground_152
+  - first:
+      213: -5886439069534081140
+    second: water_ground_153
+  - first:
+      213: 4987684339365230090
+    second: water_ground_154
+  - first:
+      213: -1954057084701115202
+    second: water_ground_155
+  - first:
+      213: 610963084515850044
+    second: water_ground_156
+  - first:
+      213: 4438974653524915346
+    second: water_ground_157
+  - first:
+      213: 2776790775446987774
+    second: water_ground_158
+  - first:
+      213: -4023245868903712656
+    second: water_ground_159
+  - first:
+      213: -7216714085145375798
+    second: water_ground_160
+  - first:
+      213: -1919662251471530809
+    second: water_ground_161
+  - first:
+      213: -6360209699307693707
+    second: water_ground_162
+  - first:
+      213: 7342040280634442655
+    second: water_ground_163
+  - first:
+      213: -8598957176654458967
+    second: water_ground_164
+  - first:
+      213: 9105184854905799096
+    second: water_ground_165
+  - first:
+      213: 4003407254413498712
+    second: water_ground_166
+  - first:
+      213: -2088910806913370170
+    second: water_ground_167
+  - first:
+      213: 2120867336651546578
+    second: water_ground_168
+  - first:
+      213: 4314506690209973617
+    second: water_ground_169
+  - first:
+      213: 7514037180417048217
+    second: water_ground_170
+  - first:
+      213: 356972184882344329
+    second: water_ground_171
+  - first:
+      213: -7855956363753748276
+    second: water_ground_172
+  - first:
+      213: -5759733193432759166
+    second: water_ground_173
+  - first:
+      213: 2480712288518515078
+    second: water_ground_174
+  - first:
+      213: -3315642116886926098
+    second: water_ground_175
+  - first:
+      213: 788307896087091395
+    second: water_ground_176
+  - first:
+      213: -5038396087137766747
+    second: water_ground_177
+  - first:
+      213: -5678719305872838891
+    second: water_ground_178
+  - first:
+      213: 7300246565284956063
+    second: water_ground_179
+  - first:
+      213: 3085559082933685544
+    second: water_ground_180
+  - first:
+      213: 4773438082302474213
+    second: water_ground_181
+  - first:
+      213: -2171230857581255709
+    second: water_ground_182
+  - first:
+      213: 5098240020718697649
+    second: water_ground_183
+  - first:
+      213: -8340268844969143627
+    second: water_ground_184
+  - first:
+      213: 4720985496814213009
+    second: water_ground_185
+  - first:
+      213: -6385359833645363016
+    second: water_ground_186
+  - first:
+      213: 42963130171739822
+    second: water_ground_187
+  - first:
+      213: 4204750769637939960
+    second: water_ground_188
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water_ground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61903324cc100050800000000000000
+      internalID: 5764639151763788139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d114ab7eafe8b850800000000000000
+      internalID: 6393123203730117073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe34cec418726400800000000000000
+      internalID: 315946954633002742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc970823a8906bb70800000000000000
+      internalID: 8914323001583892939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8378af9439b3d03d0800000000000000
+      internalID: -3238867053222131912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569adce88d3a38470800000000000000
+      internalID: 8395734280852842853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0882c1c5aad95f320800000000000000
+      internalID: 2591150515636938880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d480d98746081d0800000000000000
+      internalID: -3350567653570228937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b293df6b4c744fed0800000000000000
+      internalID: -2381199392762939093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daffcf56b36ad8f0800000000000000
+      internalID: -514989572437837097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82713a663c01a1410800000000000000
+      internalID: 1448488661579667240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755b5ff10f2438b70800000000000000
+      internalID: 8900030887710012759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e4dbbecbc60cf10800000000000000
+      internalID: 2287948169368915530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc93eac778b732b80800000000000000
+      internalID: -8420751056410101300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f605d7461a5dd0800000000000000
+      internalID: -2496658545651027626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d38c44dfeaf9eb0800000000000000
+      internalID: -4710854282402317018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4c18721fdf455c0800000000000000
+      internalID: -4227474938002291464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cb224e3edb468f0800000000000000
+      internalID: -548104468149650311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db31057600833d250800000000000000
+      internalID: 5968175505580495805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58edcf62f4a8d1500800000000000000
+      internalID: 368602817075404421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213b2cf092d49ba40800000000000000
+      internalID: 5384419668251554578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d941b057e4995150800000000000000
+      internalID: 5861880111211563478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8376ee24e93ee8520800000000000000
+      internalID: 2706350694963504952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c733f80d24b81210800000000000000
+      internalID: 1303990197640443847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6591fc6d93bacb0800000000000000
+      internalID: -4851720578801248556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1b35817b8191c90800000000000000
+      internalID: -7198695354708807173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b208fd4987341d0800000000000000
+      internalID: -3367715515542787282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ddf3c1afb98ed40800000000000000
+      internalID: 5613908434035399974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3b13d93e1afbd40800000000000000
+      internalID: 5602374460439114659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfc6aae88bb96800800000000000000
+      internalID: 606221821584789455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a89e5a91e128570800000000000000
+      internalID: 8467363344916515373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad49a2c5fa1c517a0800000000000000
+      internalID: -6407001935954930470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5da33eec0bf9480800000000000000
+      internalID: -8890192736784034395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2457ab5745b0f0cb0800000000000000
+      internalID: -4895681812548127422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bf4d1b86c0e1e10800000000000000
+      internalID: 2170185714238815093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f87ee0f459a72550800000000000000
+      internalID: 6136059199600097522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78797dcd77243860800000000000000
+      internalID: 7508669900005144699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c30dab9426cf520800000000000000
+      internalID: 2737170742340762631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569a7731d68314990800000000000000
+      internalID: -7403574271291184795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb05ff178c1ff0300800000000000000
+      internalID: 220660749972754622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf3a04b5e37ba90800000000000000
+      internalID: -7298296109483164521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a3bd3a9fffa4af0800000000000000
+      internalID: -411234968289985917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baa0cd1ec22f3f10800000000000000
+      internalID: 2251556607366310584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_43
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d360e038ff40e30800000000000000
+      internalID: 4468977668599463255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c3374bfe3e73c60800000000000000
+      internalID: 7797951898479443051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6f5a3be8a22d5a0800000000000000
+      internalID: -6498084519954483508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34685218a643cb080800000000000000
+      internalID: -9170397109195274685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8812121d38320fb0800000000000000
+      internalID: -4683118827564558195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c12ba0368842080800000000000000
+      internalID: -9213088978730607546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a11b72b15903b90800000000000000
+      internalID: -7264142255086036467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bd84de671ed8e40800000000000000
+      internalID: 5660428207577947032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372263e9d4f3566e0800000000000000
+      internalID: -1844998869738970509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908cb806d6e006be0800000000000000
+      internalID: -1486172014098266103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9992e95c7bfec00800000000000000
+      internalID: 932165707278948824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8c3115c3599e070800000000000000
+      internalID: 8136198288112339129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09df0783c038799d0800000000000000
+      internalID: -2767599357486105200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa6b72f2129997c0800000000000000
+      internalID: -4064056578649920850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_57
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88be4b22ba9191260800000000000000
+      internalID: 7068709312947088264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_58
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a127be5583191f200800000000000000
+      internalID: 212110328608813594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1f77b0f0bc34330800000000000000
+      internalID: 3694019384851296703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98399b2c47717f9b0800000000000000
+      internalID: -5046539067194764407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_61
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d203e4dfc54871e0800000000000000
+      internalID: -2199931659038293293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79a52bf075506420800000000000000
+      internalID: 2621188926867876220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a257326effc562670800000000000000
+      internalID: 8513594399738000682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d5e639d20969680800000000000000
+      internalID: -8748646700699198149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30285deaa063809c0800000000000000
+      internalID: -3960856452761550333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf873c5c69bac970800000000000000
+      internalID: 8776030698939584475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cbc3a850b5dad70800000000000000
+      internalID: 9055994505064135704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0780b6e54b02e8f80800000000000000
+      internalID: -8102502720542668688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def58683dc23e4f80800000000000000
+      internalID: -8120497221106376723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222a774bdeab871c0800000000000000
+      internalID: -4505645897086426590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a775bfed0fa07ce0800000000000000
+      internalID: -1409434208975882327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_72
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59016b82a17c999c0800000000000000
+      internalID: -3919883085483208555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_73
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adaeec697f9387e0800000000000000
+      internalID: -1764391285131661914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908922dd4515f7670800000000000000
+      internalID: 8538632843446884361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_75
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e3ce8bc75c4dcc0800000000000000
+      internalID: -3687105055440486813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca32e4877a9e555e0800000000000000
+      internalID: -1921372760516451412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_77
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b1f93380ecfbcb0800000000000000
+      internalID: -4845928139406238889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216b302fa4e0a16b0800000000000000
+      internalID: -5324927894361491950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_79
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999225264c8c68830800000000000000
+      internalID: 4073163658791889305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b891f75eb061e7d0800000000000000
+      internalID: -2890923115159643975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f01ce71591cb3e0800000000000000
+      internalID: -2036725093668679916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc2824090d0d1650800000000000000
+      internalID: 6205130193962020019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bd9fe5ff6457550800000000000000
+      internalID: 6157906128123058970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df34a51ba4586370800000000000000
+      internalID: 8315989805718847440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9246dd00596608140800000000000000
+      internalID: 4719885199634949161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edba2e0e725eee10800000000000000
+      internalID: 2228809566952013282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d5bde3e027bc830800000000000000
+      internalID: 4092490091905899901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3978b09480e4a60800000000000000
+      internalID: 7660069126022861736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2166d3bb453b3a0800000000000000
+      internalID: -6650879061530373468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95648a2cc06582330800000000000000
+      internalID: 3686290907808155225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb30820ee6a15e70800000000000000
+      internalID: 9102239863066868724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924d7b30b10f66dd0800000000000000
+      internalID: -2493041344885828567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc027811d1962aa0800000000000000
+      internalID: -6186096710902477573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d128fa551ede6dd0800000000000000
+      internalID: -2490809360587415081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71eaf7c239ac1650800000000000000
+      internalID: 6205020422178267518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_96
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9491b372bfdaef0800000000000000
+      internalID: -95143871191103063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_97
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7befb49b43afdf720800000000000000
+      internalID: 2881734440940994231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d11868703736e50800000000000000
+      internalID: 6801406338418154803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_99
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1af664c71b73a080800000000000000
+      internalID: -9177356273641391588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_100
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510278a1418e2d990800000000000000
+      internalID: -7362567267755286507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_101
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fc7bcee39b73310800000000000000
+      internalID: 1384779090350296964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_102
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305133c7ce2ca1740800000000000000
+      internalID: 5123621847039153411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_103
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490ff00c0f630b3d0800000000000000
+      internalID: -3192991728163360620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4063817c64b1bd0800000000000000
+      internalID: -2658453334113516346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31630c8c5d69f6840800000000000000
+      internalID: 5219556338085934611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f025188aa995fa0800000000000000
+      internalID: -5811443795630092468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679632f2fdbf21ca0800000000000000
+      internalID: -6047494413618026122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62e925f0cf302eb0800000000000000
+      internalID: -4746723909269069205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117e65ef55a927ee0800000000000000
+      internalID: -1264778851207682287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bf83388cd347b70800000000000000
+      internalID: 8895803095367875340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c47a757a31e7930800000000000000
+      internalID: 4142770316678483054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b087943cecb46a0800000000000000
+      internalID: -6463845502013666462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556ff579bc300b070800000000000000
+      internalID: 8119994301101897301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_114
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90726624471f7cbb0800000000000000
+      internalID: -4915694986619115767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_115
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5449b3737b003310800000000000000
+      internalID: 1382617676093408346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_116
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c54bf3de42765e0800000000000000
+      internalID: -1916522515028222894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_117
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e303195f239aa610800000000000000
+      internalID: 1633279646442390502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_118
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a66229d66eb832b0800000000000000
+      internalID: -5604520387323730263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_119
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7885a5aab67cb3c90800000000000000
+      internalID: -7188933114933389177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e2257bd304e83e0800000000000000
+      internalID: -2049630146594197976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5545cfac2269ec0800000000000000
+      internalID: -3560620200177674848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcf82654a928dae0800000000000000
+      internalID: -1524422688068010832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1843b152f900e310800000000000000
+      internalID: 1432155617861257242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2310fd8aa50954ff0800000000000000
+      internalID: -52477101590249166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe4f02a3b53388e0800000000000000
+      internalID: -1692449989326844163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ae70f649199e2b0800000000000000
+      internalID: -5554748598680819101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3b433a7751eadd0800000000000000
+      internalID: -2473015541796391983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f967c951b0a9faad0800000000000000
+      internalID: -2688761080119003489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_129
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f69a2787786e0eb0800000000000000
+      internalID: -4751745694251182344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_130
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2631efd7f756820800000000000000
+      internalID: 2910872913275216551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_131
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b974850b4329d4d60800000000000000
+      internalID: 7876112078335395739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_132
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8360f19a0de9866a0800000000000000
+      internalID: -6455735446807837128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_133
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b529cff3649729a90800000000000000
+      internalID: -7308645902640704933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_134
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9b1a9ae88a213e0800000000000000
+      internalID: -2084418346834347589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8bae54768fbb980800000000000000
+      internalID: -8521944747430201140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_136
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ba85790736fd310800000000000000
+      internalID: 1431972541753764746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_137
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c86d1244be6d830800000000000000
+      internalID: 4095719588998057020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90a2883616ec6530800000000000000
+      internalID: 3849704764606685340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_139
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb887683a00a0b6b0800000000000000
+      internalID: -5282546397149165378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_140
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d52ade15939f940800000000000000
+      internalID: 5330354658011667780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d78e25dba842d70800000000000000
+      internalID: 9017484899646995781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca6418ffaffddc10800000000000000
+      internalID: 2080099734161484481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_143
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9c538c1c46bed50800000000000000
+      internalID: 6767613648504736179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_144
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201fe8c1f0c604b20800000000000000
+      internalID: 3116609754299822338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a0eec76930d170800000000000000
+      internalID: 8201118039456916375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_146
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f4713b039443050800000000000000
+      internalID: 5779324695335096154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_147
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ee0e1a7341558f0800000000000000
+      internalID: -552513150111388101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_148
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5044a3cc7c0cec0800000000000000
+      internalID: -3548616826403158543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_149
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ac03abec60d4d80800000000000000
+      internalID: -8264942256198202783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaa6d96316bd4470800000000000000
+      internalID: 8380554676102671073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_151
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241c95ed14ab7d290800000000000000
+      internalID: -7865613432113217214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_152
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8d9521318f1d350800000000000000
+      internalID: 6039881336076490990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_153
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fa07c9ada2f4ea0800000000000000
+      internalID: -5886439069534081140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06b4a31b70d73540800000000000000
+      internalID: 4987684339365230090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcfd8b3f6bc1e4e0800000000000000
+      internalID: -1954057084701115202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37b17730b39a7800800000000000000
+      internalID: 610963084515850044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_157
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294b05ebde76a9d30800000000000000
+      internalID: 4438974653524915346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3691a8f74298620800000000000000
+      internalID: 2776790775446987774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078bfe3c23f8a28c0800000000000000
+      internalID: -4023245868903712656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_160
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb0a5d76c419db90800000000000000
+      internalID: -7216714085145375798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_161
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c410546a5dfb55e0800000000000000
+      internalID: -1919662251471530809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_162
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57955cfe9fefbb7a0800000000000000
+      internalID: -6360209699307693707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9343d54cba24e560800000000000000
+      internalID: 7342040280634442655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_164
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af07bec10e5aa880800000000000000
+      internalID: -8598957176654458967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b14dea526d1c5e70800000000000000
+      internalID: 9105184854905799096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_166
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859d98adfa5fe8730800000000000000
+      internalID: 4003407254413498712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_167
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7347a40b2b203e0800000000000000
+      internalID: -2088910806913370170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_168
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df18d81b95de6d10800000000000000
+      internalID: 2120867336651546578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_169
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175030bb9f430eb30800000000000000
+      internalID: 4314506690209973617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_170
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ef5d72109374860800000000000000
+      internalID: 7514037180417048217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_171
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9817b929f4834f400800000000000000
+      internalID: 356972184882344329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc80d7f4f490af290800000000000000
+      internalID: -7855956363753748276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_173
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2840a6c4d215110b0800000000000000
+      internalID: -5759733193432759166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_174
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689a71bdea24d6220800000000000000
+      internalID: 2480712288518515078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_175
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec61accf097cf1d0800000000000000
+      internalID: -3315642116886926098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_176
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c818e7dad1a0fa00800000000000000
+      internalID: 788307896087091395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_177
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a27f6c0475041ab0800000000000000
+      internalID: -5038396087137766747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_178
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51feb42e0e22131b0800000000000000
+      internalID: -5678719305872838891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_179
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f974390a29faf4560800000000000000
+      internalID: 7300246565284956063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d0ebf43ab12da20800000000000000
+      internalID: 3085559082933685544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_181
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7f5f425a8ae3240800000000000000
+      internalID: 4773438082302474213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_182
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3a088e90d3ed1e0800000000000000
+      internalID: -2171230857581255709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_183
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc3e96894690c640800000000000000
+      internalID: 5098240020718697649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b25b549ca9614c80800000000000000
+      internalID: -8340268844969143627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_185
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197d167eb4f448140800000000000000
+      internalID: 4720985496814213009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_186
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b05588ff05a267a0800000000000000
+      internalID: -6385359833645363016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_187
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae43504db2a89000800000000000000
+      internalID: 42963130171739822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_ground_188
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fad1591c864a5a30800000000000000
+      internalID: 4204750769637939960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

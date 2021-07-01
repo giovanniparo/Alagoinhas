@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: e4d62167054e66c4fbdaf8462ca801af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6462388998756185222
+    second: NewsAssets_0
+  - first:
+      213: 4501989690684670314
+    second: NewsAssets_1
+  - first:
+      213: 9076045342283907664
+    second: NewsAssets_2
+  - first:
+      213: -1142490405901272828
+    second: NewsAssets_3
+  - first:
+      213: -3037521061357097140
+    second: NewsAssets_4
+  - first:
+      213: 54434367857376985
+    second: NewsAssets_5
+  - first:
+      213: -7526426602307259742
+    second: NewsAssets_6
+  - first:
+      213: 8036368723161939454
+    second: NewsAssets_7
+  - first:
+      213: 4069747543385193451
+    second: NewsAssets_8
+  - first:
+      213: -1444625026648563655
+    second: NewsAssets_9
+  - first:
+      213: 7951713172016307516
+    second: NewsAssets_10
+  - first:
+      213: 4537997570855582177
+    second: NewsAssets_11
+  - first:
+      213: 695578893446402257
+    second: NewsAssets_12
+  - first:
+      213: -5434373751382886224
+    second: NewsAssets_13
+  - first:
+      213: 2421873513653569144
+    second: NewsAssets_14
+  - first:
+      213: 7696701152842259012
+    second: NewsAssets_15
+  - first:
+      213: -9104828617416177647
+    second: NewsAssets_16
+  - first:
+      213: -6967657032473664049
+    second: NewsAssets_17
+  - first:
+      213: -3019101791407574000
+    second: NewsAssets_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewsAssets_1
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 384
+        width: 16
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a610bb765c74a7e30800000000000000
+      internalID: 4501989690684670314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewsAssets_2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 384
+        width: 16
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052cb20e62794fd70800000000000000
+      internalID: 9076045342283907664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewsAssets_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 416
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a908d6bec20da60800000000000000
+      internalID: 7696701152842259012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewsAssets_0
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 576
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684314f1e840fa950800000000000000
+      internalID: 6462388998756185222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewsAssets_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 479
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f766aaeef916d0800000000000000
+      internalID: -3019101791407574000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewsAssets_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 292
+        width: 123
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40976fc670f0520f0800000000000000
+      internalID: -1142490405901272828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewsAssets_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 276
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fea0c20be88d5d0800000000000000
+      internalID: -3037521061357097140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
